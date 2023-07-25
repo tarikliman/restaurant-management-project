@@ -1,4 +1,4 @@
-# Restaurant Management System Project
+# restaurant-management-project
 ## Project Information
 
 University Project Assignment
